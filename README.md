@@ -2,6 +2,11 @@
 
 A To-Do application built using Django with SQLite as the database. Users can register, log in, add tasks, mark tasks as complete, and delete tasks.
 
+### Demo Video
+
+<a href="https://www.youtube.com/watch?v=aat3BBxjtqM" target="YouTube video player"><img src="https://wpformation.com/wp-content/uploads/2014/03/todo1.jpg.webp" 
+alt="Demo Video" width="240" height="180" border="10" /></a>
+
 ## Features
 - User registration and authentication
 - Add tasks to the to-do list
@@ -61,7 +66,3 @@ Make sure you have Python installed on your system.
 3. Add tasks using the provided form.
 4. View your tasks in the list.
 5. Mark tasks as complete or delete them as needed.
-
-### Demo Video
-https://youtu.be/aat3BBxjtqM
-
