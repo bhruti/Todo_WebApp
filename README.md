@@ -7,7 +7,7 @@ A To-Do application built using Django with SQLite as the database. Users can re
 <a href="https://www.youtube.com/watch?v=aat3BBxjtqM" target="YouTube video player"><img src="https://wpformation.com/wp-content/uploads/2014/03/todo1.jpg.webp" 
 alt="Demo Video" width="240" height="180" border="10" /></a>
 
-### Click below to qccess the app.
+### Click below to access the app.
 https://sinjoblog.pythonanywhere.com/login/?next=/
 
 ## Features
